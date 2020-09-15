@@ -34,7 +34,7 @@ This is our final mini project assignment for the course of OpenCV with Pyhton.
 #### Resources ####  
 * [OpenCV-With_Python](https://www.alexsnowschool.org/courses/opencv-with-python) 
 * [Read More about LBPH Face Recognizer](https://www.alexsnowschool.org/courses/opencv-with-python) 
-* [Extraction Frame From Video](ttps://theailearner.com/2018/10/15/extracting-and-saving-video-frames-using-opencv-python/) 
+* [Extraction Frame From Video](https://theailearner.com/2018/10/15/extracting-and-saving-video-frames-using-opencv-python/) 
 
 
 ---
